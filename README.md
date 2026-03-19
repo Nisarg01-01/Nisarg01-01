@@ -1,69 +1,54 @@
 # Nisarg Shah
 
-🚀 I build systems that turn data into decisions—reliably, at scale, and under real-world constraints.
+🚀 Software Engineer + ML/AI Engineer building systems that turn data into reliable, real-world decisions.
 
-I work at the intersection of backend engineering, distributed systems, and applied machine learning. My focus is on taking ML beyond experimentation—designing the pipelines, infrastructure, and APIs needed to make it production-ready.
-
----
-
-## 🛠️ What I’ve been building
-
-- ⚡ **Multithreaded Key–Value Store (C++)**  
-  High-throughput, low-latency system (millions of ops/sec, sub-ms latency) with concurrency-focused design  
-
-- 🔄 **Real-Time Analytics Pipeline**  
-  Kafka + Spark system processing tens of thousands of events/sec with fault tolerance and exactly-once guarantees  
-
-- 🧠 **Hybrid Graph + Vector Retrieval System**  
-  Neo4j + semantic search for low-latency, evidence-backed querying  
-
-- 🌍 **Applied ML Systems (Geospatial & Time-Series)**  
-  Crop prediction, flood mapping, and forecasting models deployed for real-world decision-making  
+My work focuses on backend systems, distributed data processing, and applied machine learning—especially where ML models need to operate within scalable, production-grade infrastructure.
 
 ---
 
-## 🤖 Applied ML & AI
+## 🛠️ What I Build
 
-I focus on ML systems where reliability matters as much as accuracy:
-
-- 📡 Crop yield prediction with **<10% error**  
-- 🌊 River discharge forecasting (ISRO) with **0.95 NSE, <5% error**  
-- 🛰️ Flood mapping with **>90% pixel-level accuracy**  
-- 🔍 Retrieval + GenAI pipelines combining structured data with LLM reasoning  
-
-Beyond modeling, I care about:
-- building robust data pipelines  
-- validating outputs against real-world constraints  
-- integrating ML into scalable production systems  
+- ⚡ High-performance systems (C++, multithreading, low-latency design)
+- 🔄 Distributed data pipelines (Kafka, Spark, real-time processing)
+- 🧠 ML/AI systems (deep learning, time-series, retrieval + GenAI)
+- 🌐 Backend services and APIs for production deployment
 
 ---
 
-## ⚙️ How I approach engineering
+## 🤖 ML & AI Work
 
-- 📈 Build systems that scale without becoming fragile  
-- 🔍 Understand bottlenecks, failure modes, and tradeoffs  
-- 🧩 Keep designs simple, debuggable, and observable  
-- 🔄 Work end-to-end—from data to deployment  
+- Crop yield prediction (<10% error)
+- River discharge forecasting (0.95 NSE, <5% error)
+- Flood mapping (>90% accuracy)
+- Retrieval + GenAI systems combining structured + semantic search
 
----
-
-## 💻 Tech I use often
-
-**Languages:** C++, Python, Java  
-**Systems:** Distributed Systems, Multithreading, System Design  
-**Data:** Kafka, Spark, PostgreSQL, PostGIS  
-**Backend:** FastAPI, REST APIs, Microservices  
-**ML/AI:** PyTorch, Vector Search, LLM Pipelines  
-**Infra:** Docker, Linux, AWS  
+I focus on deploying ML systems—not just training models:
+- data pipelines
+- validation
+- integration with backend systems
 
 ---
 
-## 📌 Currently
+## ⚙️ Systems Work
 
-Exploring system design, performance optimization, and production-grade ML systems.
+- Concurrent key–value store (C++) → 7.7M ops/sec
+- Real-time analytics pipeline → 59K events/sec
+- Scalable APIs and microservices
+
+---
+
+## ⚡ Development Approach
+
+I use LLM-assisted workflows to accelerate development, while maintaining full ownership of system design, correctness, and performance.
+
+---
+
+## 💻 Tech
+
+C++, Python, Kafka, Spark, PostgreSQL, FastAPI, Docker, Linux, PyTorch
 
 ---
 
 ## 🔗 Links
 
-- 💼 LinkedIn: https://linkedin.com/in/shah-nisarg-n4363s/
+- LinkedIn: https://linkedin.com/in/shah-nisarg-n4363s/
